@@ -1,1 +1,2 @@
 It is used to test the fetch option from other repository
+modified to go for fetch command
